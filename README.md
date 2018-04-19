@@ -4,7 +4,5 @@ Surveying Adjustment, Lecture of USTS
 
 ## Reference materials
 
-\url{http://www.gis.uni-stuttgart.de/edu/study/mscgeo/SI/}
-
-
+[SI](http://www.gis.uni-stuttgart.de/edu/study/mscgeo/SI/)
 
