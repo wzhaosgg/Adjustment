@@ -8,8 +8,8 @@ Surveying Adjustment, Lecture of USTS
 
 ## Surveying Adjustment Softwares
 
-- 1. COSA
-- 2. GNU GAMA
++ 1. COSA
++ 2. GNU GAMA
 
 
 
